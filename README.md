@@ -2,6 +2,8 @@
 
 # 📱 Mobile First, Layout och Designprinciper för Mobil
 
+[Länk till presentationen](https://docs.google.com/presentation/d/1nNOzoS2S4aNIo5QllxxaGnpEq4QqyPtrgG7iCwEKQ2E/edit?usp=sharing)
+
 ## Vad betyder Mobile First?
 
 "Mobile First" är en metod där man designar och bygger sin webbplats för **mobilen först**, och sedan anpassar den för större skärmar med hjälp av **media queries**. Eftersom många besökare surfar via mobilen är det smart att börja där användarna faktiskt är.
