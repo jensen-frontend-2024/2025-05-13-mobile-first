@@ -70,4 +70,4 @@ Bygg en enkel profilsida som fungerar bra på mobil **och** anpassas för störr
 
 ## 📦 Extra (frivilligt)
 - Lägg till en knapp eller länk till "Skicka meddelande"
-- Lägg in ikoner med emoji eller t.ex. från [Font Awesome](https://fontawesome.com/) (om du vågar)
+- Lägg in ikoner med emoji eller t.ex. från [Font Awesome](https://fontawesome.com/)
