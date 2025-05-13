@@ -39,8 +39,11 @@
 - Använd `meta viewport`:
   ```html
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+# 🧪 Övning 1: Skapa en responsiv webbsida
+Koda upp en responsiv webbida utifrån er designskiss som ni skapade i Figma under lektionen. Börja med mobilvy - använd sedan media queries för desktop vyn. 
 
-# 🧪 Övning: Skapa en responsiv profilsida – Mobile First
+# 🧪 Övning 2: Skapa en responsiv profilsida – Mobile First
 
 Bygg en enkel profilsida som fungerar bra på mobil **och** anpassas för större skärmar med media queries.
 
